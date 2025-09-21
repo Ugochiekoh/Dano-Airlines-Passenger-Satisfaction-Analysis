@@ -47,7 +47,7 @@ From the analysis and dashboard:
   - Ease of Online Booking (2.55/5)  
   - Gate Location, Cleanliness, and Entertainment also scored below 3.0.  
 - **Highest Rated Service Factors:** Seat Comfort and On-board Service (above 3.0) stood out as relative strengths.
--  ![Dano Airline Satisfaction Dashboard](Dano%20Airline%20Sayisfaction%20Dashboard.png)
+-  ![Dano Airline Satisfaction Dashboard](Dano%20Airline%20Satisfaction%20Dashboard.png)
 
 
 ---
